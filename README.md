@@ -19,8 +19,11 @@
    프로젝트 제안서 파일: `doc/스마트 헬스케어 인형(20252747,정혜원).docx`
 
 ---
+
 ## 관련 [링크
-[GitHub저장소]:](https://github.com/zeplanetheyzle/osd)
+[GitHub저장소]:(https://github.com/zeplanetheyzle/osd)
+
 ---
+
 # osd
 Open source design projects
