@@ -1,0 +1,2 @@
+INFO|정혜원|1108
+TASK|2025-11-01|정혜원|shell study
